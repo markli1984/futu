@@ -3,11 +3,11 @@
  */
 
 // location.href 是这些时，执行对应的功能
-var YC_Login = "https://chinacu.bsgroup.com.hk/trading/pns/bsmart/login/gb/login_BSS.aspx";
+var YC_Login = "https://passport.futunn.com/?target=https%3A%2F%2Fipo.futuhk.com%2Flist%3Flang%3Dzh-cn";
 var YC_Main = "chinacu.bsgroup.com.hk/mts.web/client/BSMARTLoginDisclaimer.aspx";
 var YC_IPOListRedirect = "https://chinacu.bsgroup.com.hk/mts.web//Redirect.aspx?url=%2fbsmart.web%2fLogin.aspx%3fsite%3dBSMART%26user%3d%7buser%7d%26language%3d%7blang%7d%26token%3d%7bayers_id%7d%26homePage%3d%2fbsmart.web%2fIPOList.aspx";
 var YC_IPOlist = "ipo.futuhk.com/list?lang=zh-cn";
-var YC_IPOApply = "chinacu.bsgroup.com.hk/bsmart.web/IPOInput.aspx";
+var YC_IPOApply = "ipo.futuhk.com/apply/detail?stockCode=";
 
 var storage = chrome.storage.local;
 var halfAuto = true;
