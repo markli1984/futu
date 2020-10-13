@@ -1,5 +1,5 @@
 /**
- * @author Li Chunhui
+ * @author Li Mark
  */
 
 // location.href 是这些时，执行对应的功能
